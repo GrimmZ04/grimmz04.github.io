@@ -711,6 +711,7 @@ $btn-mb: 0.5rem;
   }
 
   #avatar {
+    margin:0 auto;
     display: block;
     width: 7rem;
     height: 7rem;
@@ -906,6 +907,7 @@ $btn-mb: 0.5rem;
 #topbar-wrapper {
   height: $topbar-height;
   background-color: var(--topbar-bg);
+  border-radius:0px 0px 8px 8px;
 }
 
 #topbar {

@@ -31,10 +31,13 @@ github:
 twitter:
   username: GrimmZ04 # change to your twitter username
 
+youtube:
+  username: @GrimmZ04
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  #name: your_full_name
+  name: GrimmZ04
   #email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
