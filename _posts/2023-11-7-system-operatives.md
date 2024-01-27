@@ -1,14 +1,13 @@
 ---
 title: ¿Que es un sistema operativo?
 author: GrimmZ04
-date: 2024-01-26 12:00:00
+date: 2023-11-7 12:00:00
 categories: [Informativo]
 tags: [sistema-operativo]
 pin: false
-#img_path: '/posts/20180809'
 ---
 
-Un sistema operativo es un [software]({% post_url 2024-01-26-software %}) que actúa como intermediario entre el [hardware]({ post_url %}) de una computadora y el usuario. Su función principal es gestionar los recursos del sistema y facilitar la interacción entre el usuario y la máquina.
+Un sistema operativo es un [software]({% post_url 2023-11-7-software %}) que actúa como intermediario entre el [hardware]({% post_url 2023-11-7-hardware %}) de una computadora y el usuario. Su función principal es gestionar los recursos del sistema y facilitar la interacción entre el usuario y la máquina.
 
 Proporciona una interfaz para que los programas y aplicaciones se ejecuten, aqui tienes una lista de las diversas tareas esenciales del funcionamiento
 
