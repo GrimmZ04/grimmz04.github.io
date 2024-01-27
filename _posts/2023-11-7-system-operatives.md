@@ -1,7 +1,7 @@
 ---
 title: ¿Que es un sistema operativo?
 author: GrimmZ04
-date: 2023-11-7 5:00:00
+date: 2023-11-7 12:00:00
 categories: [Informativo]
 tags: [sistema-operativo]
 pin: false
@@ -44,7 +44,7 @@ Proporciona una interfaz para que los programas y aplicaciones se ejecuten, aqui
     - Mantenimiento del reloj del sistema.
     - Sincronización con servidores de tiempo externos.
 11. ### **Manejo de Errores**:
-    - Detección y manejo de errores en el hardware o software.
+    - Detección y manejo de errores en el [hardware]({% post_url 2023-11-7-hardware %}) o [software]({% post_url 2023-11-7-software %}).
     - Registro de eventos y generación de informes de errores.
 12. ### **Sistema de Colas y Planificación**:
     - Administración de colas de procesos y prioridades de ejecución.
@@ -52,11 +52,11 @@ Proporciona una interfaz para que los programas y aplicaciones se ejecuten, aqui
 13. ### **Gestión de Redundancia**:
     - Implementación de técnicas para la tolerancia a fallos y redundancia.
 14. ### **Gestión de Dispositivos**:
-    - Control y configuración de dispositivos de hardware.
+    - Control y configuración de dispositivos de [hardware]({% post_url 2023-11-7-hardware %}).
 15. ### **Monitorización del Sistema**:
     - Supervisión y recopilación de datos sobre el rendimiento del sistema.
 16. ### **Actualizaciones y Mantenimiento**:
-    - Gestión de actualizaciones de software y parches del sistema.<br>
+    - Gestión de actualizaciones de [software]({% post_url 2023-11-7-software %}) y parches del sistema.<br>
 
 ## Ejemplo de algunos sistemas operativos de diferentes plataformas
 
