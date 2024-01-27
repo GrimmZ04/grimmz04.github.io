@@ -1,7 +1,7 @@
 ---
 title: ¿Que es un sistema operativo?
 author: GrimmZ04
-date: 2023-11-7 12:00:00
+date: 2023-11-7 5:00:00
 categories: [Informativo]
 tags: [sistema-operativo]
 pin: false
@@ -78,4 +78,7 @@ Proporciona una interfaz para que los programas y aplicaciones se ejecuten, aqui
     - Xbox OS (sistema operativo de las consolas Xbox de Microsoft)
 - **Dispositivos IoT (Internet de las Cosas)**:
     - FreeRTOS (sistema operativo en tiempo real para dispositivos IoT)
-    - Contiki (sistema operativo de código abierto para sistemas integrados con conectividad)
+    - Contiki (sistema operativo de código abierto para sistemas integrados con conectividad)<br><br>
+
+En cuanto a cuál usar, depende de tus preferencias y necesidades específicas,
+Si tienes requisitos específicos de software o hardware, eso también puede influir en tu elección. Además, algunos entornos son más adecuados para ciertos tipos de desarrollo.
