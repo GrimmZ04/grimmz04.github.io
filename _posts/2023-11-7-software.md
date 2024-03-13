@@ -27,7 +27,7 @@ Con esto presente podemos destacar la clasificación del software según su rela
     - En la programación de bajo nivel, se utilizan lenguajes como ensamblador o incluso se escribe directamente en código máquina.
 2. ### **Ejemplos**:
     - **Controladores de dispositivos**: Software que permite la comunicación entre el sistema operativo y dispositivos de [hardware]({% post_url 2023-11-7-hardware %}) como impresoras, tarjetas gráficas, etc.
-    - **[Firmware]({% post_url 2023-11-7-firmware %})**: Código almacenado en dispositivos de [hardware]({% post_url 2023-11-7-hardware %}) que proporciona instrucciones básicas para su funcionamiento. Por ejemplo, el [firmware]({% post_url 2023-11-7-firmware %}) de una BIOS.
+    - **[Firmware]({% post_url 2023-11-7-firmware %})**: Código almacenado en dispositivos de [hardware]({% post_url 2023-11-7-hardware %}) que proporciona instrucciones básicas para su funcionamiento. Por ejemplo, el [firmware]({% post_url 2023-11-7-firmware %}) de una [BIOS]({% post_url 2023-11-7-bios %}).
 3. ### **Características**:
     - **Acceso directo**: El programador tiene un control preciso sobre los recursos del [hardware]({% post_url 2023-11-7-hardware %}).
     - **Mayor control**: Se puede manipular directamente la memoria y los registros de la CPU.

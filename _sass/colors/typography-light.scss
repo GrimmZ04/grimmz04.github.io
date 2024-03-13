@@ -38,19 +38,19 @@
   );
 
   /* Sidebar */
-  --site-title-color: rgb(113, 113, 113);
+  --site-title-color: black;
   --site-subtitle-color: #717171;
-  --sidebar-bg: #f6f8fa;
+  --sidebar-bg: rgba(0,0,0,0.1);;
   --sidebar-border-color: #efefef;
   --sidebar-muted-color: #545454;
-  --sidebar-active-color: #1d1d1d;
-  --sidebar-hover-bg: rgb(223, 233, 241, 0.64);
+  --sidebar-active-color: black;
+  --sidebar-hover-bg: rgba(0,0,0,0.2);
   --sidebar-btn-bg: white;
   --sidebar-btn-color: #8e8e8e;
   --avatar-border-color: white;
 
   /* Topbar */
-  --topbar-bg: rgb(255, 255, 255, 0.7);
+  --topbar-bg: rgba(0,0,0,0.1);
   --topbar-text-color: rgb(78, 78, 78);
   --search-border-color: rgb(240, 240, 240);
   --search-icon-color: #c2c6cc;
@@ -65,10 +65,10 @@
   --toc-highlight: #0550ae;
   --btn-share-color: gray;
   --btn-share-hover-color: #0d6efd;
-  --card-bg: white;
-  --card-hovor-bg: #e2e2e2;
-  --card-shadow: rgb(104, 104, 104, 0.05) 0 2px 6px 0,
-    rgba(211, 209, 209, 0.15) 0 0 0 1px;
+  --card-bg: rgba(0,0,0,0.1);
+  --card-hovor-bg: rgba(0,0,0,0.2);
+  --card-shadow: rgb(0,0,0,0.4) 0 2px 6px 0,
+    rgba(0,0,0,0.3) 0 0 0 1px;
   --footnote-target-bg: lightcyan;
   --tb-odd-bg: #fbfcfd;
   --tb-border-color: #eaeaea;
