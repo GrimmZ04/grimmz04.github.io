@@ -76,6 +76,7 @@ Proporciona una interfaz para que los programas y aplicaciones se ejecuten, aqui
 - **Consolas de Videojuegos**:
     - PlayStation OS (sistema operativo de las consolas PlayStation de Sony)
     - Xbox OS (sistema operativo de las consolas Xbox de Microsoft)
+    - Steam OS (Sistema operativo desarrollado por Valve)
 - **Dispositivos IoT (Internet de las Cosas)**:
     - FreeRTOS (sistema operativo en tiempo real para dispositivos IoT)
     - Contiki (sistema operativo de código abierto para sistemas integrados con conectividad)<br><br>
